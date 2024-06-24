@@ -12,6 +12,6 @@
 
 
         <footer>
-            &copy; 2024 damsik 236250069. Semua hak dilindungi.
+            &copy; 2024 muh. Fadil 236250079. Semua hak dilindungi.
         </footer>
     </div>

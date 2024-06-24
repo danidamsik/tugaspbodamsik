@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WEBSITE TOKO ONLINE</title>
+    <title>WEBSITE TUGAS FADIL</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <div class="navbar">
-            <h1>TUGAS AKHIR PBO DAMSIK</h1>
+            <h1>TUGAS AKHIR PBO FADIL</h1>
             <nav>
                 <ul class="menu">
                     <li><a href="index.php">Home</a></li>
